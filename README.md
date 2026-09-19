@@ -1,5 +1,3 @@
-# HACKATHON :“Hack to the Future: UI-gnition Sequence”
-
 Welcome participants! Please read the rules below carefully before starting.
 
 ---
